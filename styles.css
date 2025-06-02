@@ -1,0 +1,69 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #1e2f1b;
+    color: #f4efe5;
+}
+
+header {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #1e2f1b;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0.5rem 0;
+    color: #d87f33;
+}
+
+.tagline {
+    font-size: 1.1rem;
+    color: #d1cbbf;
+}
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+.sample-briefing h2,
+.cta h2 {
+    color: #d87f33;
+}
+
+.briefing h3 {
+    margin-top: 1.5rem;
+    color: #fff5e6;
+}
+
+.cta {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+button {
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    background-color: #d87f33;
+    color: #1e2f1b;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 0.9rem;
+    background-color: #162310;
+    color: #ccc;
+}
